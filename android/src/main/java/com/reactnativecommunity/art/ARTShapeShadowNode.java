@@ -22,7 +22,7 @@ import com.facebook.react.common.ReactConstants;
 import com.facebook.react.uimanager.annotations.ReactProp;
 import javax.annotation.Nullable;
 
-import static com.facebook.react.common.ArrayUtils.copyArray;
+// import static com.facebook.react.common.ArrayUtils.copyArray;
 
 /**
  * Shadow node for virtual ARTShape view
